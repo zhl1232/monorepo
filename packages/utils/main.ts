@@ -1,3 +1,3 @@
 export function getText() {
-  return '中文221春1'
+  return '中文2春1'
 }

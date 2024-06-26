@@ -1,8 +1,8 @@
 {
-  "name": "utils",
+  "name": "@base/utils",
   "type": "module",
-  "main": "./main.js",
-  "module": "./main.js",
+  "main": "./main.ts",
+  "module": "./main.ts",
   "version": "0.0.1",
   "scripts": {
     "dev": "vite",
