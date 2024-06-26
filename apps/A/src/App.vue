@@ -12,7 +12,7 @@ import { getText } from 'utils';
       <img src="./assets/vue.svg" class="logo vue" alt="Vue logo" />
     </a>
     {{ getText() }}
-    testf
+    testfdd
   </div>
   <HelloWorld msg="Vite + Vue" />
 </template>
